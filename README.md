@@ -1,11 +1,11 @@
 ## Hi 👋
 
-#### I'm Mahesh, a full-stack web developer in a consulting world!
+#### I'm Mahesh, a full-stack web developer in a ~~consulting~~ startup world!
 #### I code, travel and occassionaly write articles on the Internet.
 
 ## More about me
 
-⚡ &nbsp; &nbsp; What I use a lot: `React` `Node` `Python` `Angular` `Docker` `Azure`
+⚡ &nbsp; &nbsp; What I use a lot: `React` `Node` `Angular` `Docker` `Azure`
 
 🌱 &nbsp; &nbsp; What I'm learning: `Svelte` `Photography` `Español`
 
