@@ -5,9 +5,9 @@
 
 ## More about me
 
-⚡ &nbsp; &nbsp; What I use a lot: `React` `Node` `Angular` `Docker` `Azure`
+⚡ &nbsp; &nbsp; What I use a lot: `React` `Node` `Docker` `Google Cloud` `K8S`
 
-🌱 &nbsp; &nbsp; What I'm learning: `Svelte` `Photography` `Español` `Svenska`
+🌱 &nbsp; &nbsp; What I'm learning: `K8S` `Photography` `Svenska`
 
 💬 &nbsp; &nbsp; What I love to chat about: Anything about tech 💾 &nbsp;, photography 📷 &nbsp; or coffee ☕ &nbsp; !
 
